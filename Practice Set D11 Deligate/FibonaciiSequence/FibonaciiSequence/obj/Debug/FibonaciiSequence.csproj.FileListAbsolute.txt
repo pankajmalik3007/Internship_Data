@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FibonaciiSequence\FibonaciiSequence\bin\Debug\FibonaciiSequence.exe.config
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FibonaciiSequence\FibonaciiSequence\bin\Debug\FibonaciiSequence.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FibonaciiSequence\FibonaciiSequence\bin\Debug\FibonaciiSequence.pdb
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FibonaciiSequence\FibonaciiSequence\obj\Debug\FibonaciiSequence.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FibonaciiSequence\FibonaciiSequence\obj\Debug\FibonaciiSequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FibonaciiSequence\FibonaciiSequence\obj\Debug\FibonaciiSequence.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FibonaciiSequence\FibonaciiSequence\obj\Debug\FibonaciiSequence.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FibonaciiSequence\FibonaciiSequence\obj\Debug\FibonaciiSequence.pdb

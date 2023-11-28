@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\abstraction\abstraction\bin\Debug\abstraction.exe.config
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\abstraction\abstraction\bin\Debug\abstraction.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\abstraction\abstraction\bin\Debug\abstraction.pdb
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\abstraction\abstraction\obj\Debug\abstraction.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\abstraction\abstraction\obj\Debug\abstraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\abstraction\abstraction\obj\Debug\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\abstraction\abstraction\obj\Debug\abstraction.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\abstraction\abstraction\obj\Debug\abstraction.pdb

@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\association\association\bin\Debug\association.exe.config
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\association\association\bin\Debug\association.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\association\association\bin\Debug\association.pdb
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\association\association\obj\Debug\association.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\association\association\obj\Debug\association.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\association\association\obj\Debug\association.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\association\association\obj\Debug\association.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\association\association\obj\Debug\association.pdb

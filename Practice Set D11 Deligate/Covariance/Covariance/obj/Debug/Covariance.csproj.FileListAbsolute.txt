@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Covariance\Covariance\bin\Debug\Covariance.exe.config
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Covariance\Covariance\bin\Debug\Covariance.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Covariance\Covariance\bin\Debug\Covariance.pdb
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Covariance\Covariance\obj\Debug\Covariance.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Covariance\Covariance\obj\Debug\Covariance.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Covariance\Covariance\obj\Debug\Covariance.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Covariance\Covariance\obj\Debug\Covariance.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Covariance\Covariance\obj\Debug\Covariance.pdb

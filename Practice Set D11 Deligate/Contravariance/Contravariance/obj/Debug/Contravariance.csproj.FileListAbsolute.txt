@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Contravariance\Contravariance\bin\Debug\Contravariance.exe.config
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Contravariance\Contravariance\bin\Debug\Contravariance.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Contravariance\Contravariance\bin\Debug\Contravariance.pdb
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Contravariance\Contravariance\obj\Debug\Contravariance.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Contravariance\Contravariance\obj\Debug\Contravariance.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Contravariance\Contravariance\obj\Debug\Contravariance.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Contravariance\Contravariance\obj\Debug\Contravariance.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\Contravariance\Contravariance\obj\Debug\Contravariance.pdb

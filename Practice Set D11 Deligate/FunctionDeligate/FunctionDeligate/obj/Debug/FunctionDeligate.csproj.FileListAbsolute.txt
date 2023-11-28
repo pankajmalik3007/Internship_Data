@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FunctionDeligate\FunctionDeligate\bin\Debug\FunctionDeligate.exe.config
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FunctionDeligate\FunctionDeligate\bin\Debug\FunctionDeligate.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FunctionDeligate\FunctionDeligate\bin\Debug\FunctionDeligate.pdb
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FunctionDeligate\FunctionDeligate\obj\Debug\FunctionDeligate.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FunctionDeligate\FunctionDeligate\obj\Debug\FunctionDeligate.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FunctionDeligate\FunctionDeligate\obj\Debug\FunctionDeligate.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FunctionDeligate\FunctionDeligate\obj\Debug\FunctionDeligate.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\FunctionDeligate\FunctionDeligate\obj\Debug\FunctionDeligate.pdb

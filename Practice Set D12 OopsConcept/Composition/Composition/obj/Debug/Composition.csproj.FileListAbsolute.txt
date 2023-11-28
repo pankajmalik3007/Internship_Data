@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\Composition\Composition\bin\Debug\Composition.exe.config
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\Composition\Composition\bin\Debug\Composition.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\Composition\Composition\bin\Debug\Composition.pdb
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\Composition\Composition\obj\Debug\Composition.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\Composition\Composition\obj\Debug\Composition.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\Composition\Composition\obj\Debug\Composition.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\Composition\Composition\obj\Debug\Composition.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D12 OopsConcept\Composition\Composition\obj\Debug\Composition.pdb

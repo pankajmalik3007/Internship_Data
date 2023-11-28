@@ -1,0 +1,8 @@
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\PredicateDelegate\PredicateDelegate\bin\Debug\PredicateDelegate.exe.config
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\PredicateDelegate\PredicateDelegate\bin\Debug\PredicateDelegate.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\PredicateDelegate\PredicateDelegate\bin\Debug\PredicateDelegate.pdb
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\PredicateDelegate\PredicateDelegate\obj\Debug\PredicateDelegate.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\PredicateDelegate\PredicateDelegate\obj\Debug\PredicateDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\PredicateDelegate\PredicateDelegate\obj\Debug\PredicateDelegate.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\PredicateDelegate\PredicateDelegate\obj\Debug\PredicateDelegate.exe
+C:\Users\TGSUser148\Desktop\working task of days\Practice Set D11 Deligate\PredicateDelegate\PredicateDelegate\obj\Debug\PredicateDelegate.pdb
