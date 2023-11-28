@@ -1,0 +1,25 @@
+Work status
+
+Date: 26/07/2023
+Name: Malik Pankaj Tulshiram
+Login Time: 9.55 am
+Logout Time: 6.35 pm
+Actual Hrs:  9.00 hr
+Productive Hrs:  8.00 hr
+-----------------------------------------
+
+Task Done
+-TEST 
+1) Create MVC to 3 Numbers & perform Addition And Substracton.
+2) Perform Add Operation And Event Fired when answer is Odd.
+
+-Structural Design Pattern
+1)Bridge.
+2)Proxy.
+3)Composite.
+4)Adapter.
+
+
+-----------------------------------------
+next day's Task
+Create flowchart for pattern (1 2 3 2 3 4 5 4 3 4 5 6 7 6 5 4) Using only 3 variables.
